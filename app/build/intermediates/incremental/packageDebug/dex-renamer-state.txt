@@ -1,0 +1,7 @@
+#Thu Dec 22 17:24:37 BRST 2016
+base.0=/home/rafael/Área de Trabalho/google-services-exemple/signin_google/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_61ebb7f541074f22f3239b09cab308feba1cb39f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/rafael/Área de Trabalho/google-services-exemple/signin_google/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f85a435a2929bac065f00156c81db96116c728c5/classes.dex
+base.1=/home/rafael/Área de Trabalho/google-services-exemple/signin_google/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f85a435a2929bac065f00156c81db96116c728c5
+file.0=/home/rafael/Área de Trabalho/google-services-exemple/signin_google/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_61ebb7f541074f22f3239b09cab308feba1cb39f/classes.dex
